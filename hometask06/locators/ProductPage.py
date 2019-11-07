@@ -3,7 +3,7 @@
 
 
 class ProductPage:
-    breadcrumb = 'ul.breadcrumb > li'
+    breadcrumbs = 'ul.breadcrumb > li'
     thumbnails = '.thumbnails > li'
     item_summary = 'div.col-sm-4:nth-child(2)'
     tabs = 'ul.nav > li'

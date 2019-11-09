@@ -1,8 +1,13 @@
 # Python 3.6
 # encoding: utf-8
 
+""" Locators of catalog page. """
+
 
 class CatalogPage:
+
+    """ CSS selectors used. """
+
     breadcrumb = 'ul.breadcrumb > li'
     list_group = '.list-group'
     banner = '.swiper-viewport'

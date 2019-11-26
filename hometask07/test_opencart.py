@@ -1,7 +1,7 @@
 # Python 3.6
 # encoding: utf-8
 
-""" Hometask 06. Searching web elements. """
+""" Hometask 07. Working with web elements. """
 
 import pytest
 
